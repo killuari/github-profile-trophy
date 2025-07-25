@@ -1,9 +1,8 @@
 {
-  "version": 2,
   "public": true,
   "functions": {
     "api/**/*.[jt]s": {
-      "runtime": "vercel-deno@1.1.1",
+      "runtime": "vercel-deno@2.5.0",
       "maxDuration": 5
     }
   },
